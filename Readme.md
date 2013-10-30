@@ -1,3 +1,5 @@
+To setup, clone this repo to your local computer. Make sure to make the say_doh script executable. Finally, in your .bash_profile, insert a call to say_doh where you determine the output after an error return code.
+
 Sample .bash_profile prompt setup
 
 ```
